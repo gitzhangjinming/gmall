@@ -13,7 +13,4 @@ public class BaseCatalog1 implements Serializable{
     private String id;
     @Column
     private String name;
-
-    public BaseCatalog1() {
-    }
 }
